@@ -1,5 +1,5 @@
 # training_rust
-learn **rust** through solving the problems of competitive programming.
+learn **Rust** through solving the problems of competitive programming.
 
 ## directory-map
 ### [archive/](./archive/)
