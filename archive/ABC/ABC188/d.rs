@@ -50,7 +50,7 @@ fn solve1() { // my 1st solution
     println!("{}", min_cost);
 }
 
-fn solve2() { // my 1st solution (40ms faster)
+fn solve2() { // my 2nd solution (40ms faster)
     input! {
         n: usize,
         c: i64
